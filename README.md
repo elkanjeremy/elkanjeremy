@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Metallurgical Engineering student from Bandung Institute of Technology. Coding and solving problems with computation is my interest. 
+
+## Skills
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=elkanjeremy)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **elkanjeremy/elkanjeremy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
